@@ -1,0 +1,153 @@
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 3\HeroGame\bin\Debug\net7.0-windows\HeroGame.exe
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 3\HeroGame\bin\Debug\net7.0-windows\HeroGame.deps.json
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 3\HeroGame\bin\Debug\net7.0-windows\HeroGame.runtimeconfig.json
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 3\HeroGame\bin\Debug\net7.0-windows\HeroGame.dll
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 3\HeroGame\bin\Debug\net7.0-windows\HeroGame.pdb
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 3\HeroGame\obj\Debug\net7.0-windows\HeroGame.csproj.AssemblyReference.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 3\HeroGame\obj\Debug\net7.0-windows\HeroGameForm.HeroGame.resources
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 3\HeroGame\obj\Debug\net7.0-windows\HeroGame.csproj.GenerateResource.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 3\HeroGame\obj\Debug\net7.0-windows\HeroGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 3\HeroGame\obj\Debug\net7.0-windows\HeroGame.AssemblyInfoInputs.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 3\HeroGame\obj\Debug\net7.0-windows\HeroGame.AssemblyInfo.cs
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 3\HeroGame\obj\Debug\net7.0-windows\HeroGame.csproj.CoreCompileInputs.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 3\HeroGame\obj\Debug\net7.0-windows\HeroGame.dll
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 3\HeroGame\obj\Debug\net7.0-windows\refint\HeroGame.dll
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 3\HeroGame\obj\Debug\net7.0-windows\HeroGame.pdb
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 3\HeroGame\obj\Debug\net7.0-windows\HeroGame.genruntimeconfig.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 3\HeroGame\obj\Debug\net7.0-windows\ref\HeroGame.dll
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 4 V2\HeroGame\bin\Debug\net7.0-windows\HeroGame.exe
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 4 V2\HeroGame\bin\Debug\net7.0-windows\HeroGame.deps.json
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 4 V2\HeroGame\bin\Debug\net7.0-windows\HeroGame.runtimeconfig.json
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 4 V2\HeroGame\bin\Debug\net7.0-windows\HeroGame.dll
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 4 V2\HeroGame\bin\Debug\net7.0-windows\HeroGame.pdb
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 4 V2\HeroGame\obj\Debug\net7.0-windows\HeroGame.csproj.AssemblyReference.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 4 V2\HeroGame\obj\Debug\net7.0-windows\HeroGameForm.HeroGame.resources
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 4 V2\HeroGame\obj\Debug\net7.0-windows\HeroGame.csproj.GenerateResource.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 4 V2\HeroGame\obj\Debug\net7.0-windows\HeroGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 4 V2\HeroGame\obj\Debug\net7.0-windows\HeroGame.AssemblyInfoInputs.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 4 V2\HeroGame\obj\Debug\net7.0-windows\HeroGame.AssemblyInfo.cs
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 4 V2\HeroGame\obj\Debug\net7.0-windows\HeroGame.csproj.CoreCompileInputs.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 4 V2\HeroGame\obj\Debug\net7.0-windows\HeroGame.dll
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 4 V2\HeroGame\obj\Debug\net7.0-windows\refint\HeroGame.dll
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 4 V2\HeroGame\obj\Debug\net7.0-windows\HeroGame.pdb
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 4 V2\HeroGame\obj\Debug\net7.0-windows\HeroGame.genruntimeconfig.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 4 V2\HeroGame\obj\Debug\net7.0-windows\ref\HeroGame.dll
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 4_V2\HeroGame\bin\Debug\net7.0-windows\HeroGame.exe
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 4_V2\HeroGame\bin\Debug\net7.0-windows\HeroGame.deps.json
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 4_V2\HeroGame\bin\Debug\net7.0-windows\HeroGame.runtimeconfig.json
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 4_V2\HeroGame\bin\Debug\net7.0-windows\HeroGame.dll
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 4_V2\HeroGame\bin\Debug\net7.0-windows\HeroGame.pdb
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 4_V2\HeroGame\obj\Debug\net7.0-windows\HeroGame.csproj.AssemblyReference.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 4_V2\HeroGame\obj\Debug\net7.0-windows\HeroGameForm.HeroGame.resources
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 4_V2\HeroGame\obj\Debug\net7.0-windows\HeroGame.csproj.GenerateResource.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 4_V2\HeroGame\obj\Debug\net7.0-windows\HeroGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 4_V2\HeroGame\obj\Debug\net7.0-windows\HeroGame.AssemblyInfoInputs.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 4_V2\HeroGame\obj\Debug\net7.0-windows\HeroGame.AssemblyInfo.cs
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 4_V2\HeroGame\obj\Debug\net7.0-windows\HeroGame.csproj.CoreCompileInputs.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 4_V2\HeroGame\obj\Debug\net7.0-windows\HeroGame.dll
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 4_V2\HeroGame\obj\Debug\net7.0-windows\refint\HeroGame.dll
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 4_V2\HeroGame\obj\Debug\net7.0-windows\HeroGame.pdb
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 4_V2\HeroGame\obj\Debug\net7.0-windows\HeroGame.genruntimeconfig.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 4_V2\HeroGame\obj\Debug\net7.0-windows\ref\HeroGame.dll
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5\HeroGame\bin\Debug\net7.0-windows\HeroGame.exe
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5\HeroGame\bin\Debug\net7.0-windows\HeroGame.deps.json
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5\HeroGame\bin\Debug\net7.0-windows\HeroGame.runtimeconfig.json
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5\HeroGame\bin\Debug\net7.0-windows\HeroGame.dll
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5\HeroGame\bin\Debug\net7.0-windows\HeroGame.pdb
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5\HeroGame\obj\Debug\net7.0-windows\HeroGame.csproj.AssemblyReference.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5\HeroGame\obj\Debug\net7.0-windows\HeroGameForm.HeroGame.resources
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5\HeroGame\obj\Debug\net7.0-windows\HeroGame.csproj.GenerateResource.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5\HeroGame\obj\Debug\net7.0-windows\HeroGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5\HeroGame\obj\Debug\net7.0-windows\HeroGame.AssemblyInfoInputs.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5\HeroGame\obj\Debug\net7.0-windows\HeroGame.AssemblyInfo.cs
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5\HeroGame\obj\Debug\net7.0-windows\HeroGame.csproj.CoreCompileInputs.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5\HeroGame\obj\Debug\net7.0-windows\HeroGame.dll
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5\HeroGame\obj\Debug\net7.0-windows\refint\HeroGame.dll
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5\HeroGame\obj\Debug\net7.0-windows\HeroGame.pdb
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5\HeroGame\obj\Debug\net7.0-windows\HeroGame.genruntimeconfig.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5\HeroGame\obj\Debug\net7.0-windows\ref\HeroGame.dll
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5\HeroGame\bin\Debug\net7.0-windows\HeroGame.exe
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5\HeroGame\bin\Debug\net7.0-windows\HeroGame.deps.json
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5\HeroGame\bin\Debug\net7.0-windows\HeroGame.runtimeconfig.json
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5\HeroGame\bin\Debug\net7.0-windows\HeroGame.dll
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5\HeroGame\bin\Debug\net7.0-windows\HeroGame.pdb
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5\HeroGame\obj\Debug\net7.0-windows\HeroGame.csproj.AssemblyReference.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5\HeroGame\obj\Debug\net7.0-windows\HeroGameForm.HeroGame.resources
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5\HeroGame\obj\Debug\net7.0-windows\HeroGame.csproj.GenerateResource.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5\HeroGame\obj\Debug\net7.0-windows\HeroGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5\HeroGame\obj\Debug\net7.0-windows\HeroGame.AssemblyInfoInputs.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5\HeroGame\obj\Debug\net7.0-windows\HeroGame.AssemblyInfo.cs
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5\HeroGame\obj\Debug\net7.0-windows\HeroGame.csproj.CoreCompileInputs.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5\HeroGame\obj\Debug\net7.0-windows\HeroGame.dll
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5\HeroGame\obj\Debug\net7.0-windows\refint\HeroGame.dll
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5\HeroGame\obj\Debug\net7.0-windows\HeroGame.pdb
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5\HeroGame\obj\Debug\net7.0-windows\HeroGame.genruntimeconfig.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5\HeroGame\obj\Debug\net7.0-windows\ref\HeroGame.dll
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5 2 HEROS\HeroGame\bin\Debug\net7.0-windows\HeroGame.exe
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5 2 HEROS\HeroGame\bin\Debug\net7.0-windows\HeroGame.deps.json
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5 2 HEROS\HeroGame\bin\Debug\net7.0-windows\HeroGame.runtimeconfig.json
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5 2 HEROS\HeroGame\bin\Debug\net7.0-windows\HeroGame.dll
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5 2 HEROS\HeroGame\bin\Debug\net7.0-windows\HeroGame.pdb
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5 2 HEROS\HeroGame\obj\Debug\net7.0-windows\HeroGame.csproj.AssemblyReference.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5 2 HEROS\HeroGame\obj\Debug\net7.0-windows\HeroGameForm.HeroGame.resources
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5 2 HEROS\HeroGame\obj\Debug\net7.0-windows\HeroGame.csproj.GenerateResource.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5 2 HEROS\HeroGame\obj\Debug\net7.0-windows\HeroGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5 2 HEROS\HeroGame\obj\Debug\net7.0-windows\HeroGame.AssemblyInfoInputs.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5 2 HEROS\HeroGame\obj\Debug\net7.0-windows\HeroGame.AssemblyInfo.cs
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5 2 HEROS\HeroGame\obj\Debug\net7.0-windows\HeroGame.csproj.CoreCompileInputs.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5 2 HEROS\HeroGame\obj\Debug\net7.0-windows\HeroGame.dll
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5 2 HEROS\HeroGame\obj\Debug\net7.0-windows\refint\HeroGame.dll
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5 2 HEROS\HeroGame\obj\Debug\net7.0-windows\HeroGame.pdb
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5 2 HEROS\HeroGame\obj\Debug\net7.0-windows\HeroGame.genruntimeconfig.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\REST OF QUESTION 5 2 HEROS\HeroGame\obj\Debug\net7.0-windows\ref\HeroGame.dll
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\FULL QUESTION 5 2 HEROES\HeroGame\bin\Debug\net7.0-windows\HeroGame.exe
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\FULL QUESTION 5 2 HEROES\HeroGame\bin\Debug\net7.0-windows\HeroGame.deps.json
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\FULL QUESTION 5 2 HEROES\HeroGame\bin\Debug\net7.0-windows\HeroGame.runtimeconfig.json
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\FULL QUESTION 5 2 HEROES\HeroGame\bin\Debug\net7.0-windows\HeroGame.dll
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\FULL QUESTION 5 2 HEROES\HeroGame\bin\Debug\net7.0-windows\HeroGame.pdb
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\FULL QUESTION 5 2 HEROES\HeroGame\obj\Debug\net7.0-windows\HeroGame.csproj.AssemblyReference.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\FULL QUESTION 5 2 HEROES\HeroGame\obj\Debug\net7.0-windows\HeroGameForm.HeroGame.resources
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\FULL QUESTION 5 2 HEROES\HeroGame\obj\Debug\net7.0-windows\HeroGame.csproj.GenerateResource.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\FULL QUESTION 5 2 HEROES\HeroGame\obj\Debug\net7.0-windows\HeroGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\FULL QUESTION 5 2 HEROES\HeroGame\obj\Debug\net7.0-windows\HeroGame.AssemblyInfoInputs.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\FULL QUESTION 5 2 HEROES\HeroGame\obj\Debug\net7.0-windows\HeroGame.AssemblyInfo.cs
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\FULL QUESTION 5 2 HEROES\HeroGame\obj\Debug\net7.0-windows\HeroGame.csproj.CoreCompileInputs.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\FULL QUESTION 5 2 HEROES\HeroGame\obj\Debug\net7.0-windows\HeroGame.dll
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\FULL QUESTION 5 2 HEROES\HeroGame\obj\Debug\net7.0-windows\refint\HeroGame.dll
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\FULL QUESTION 5 2 HEROES\HeroGame\obj\Debug\net7.0-windows\HeroGame.pdb
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\FULL QUESTION 5 2 HEROES\HeroGame\obj\Debug\net7.0-windows\HeroGame.genruntimeconfig.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\FULL QUESTION 5 2 HEROES\HeroGame\obj\Debug\net7.0-windows\ref\HeroGame.dll
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5 WORKS\HeroGame\bin\Debug\net7.0-windows\HeroGame.exe
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5 WORKS\HeroGame\bin\Debug\net7.0-windows\HeroGame.deps.json
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5 WORKS\HeroGame\bin\Debug\net7.0-windows\HeroGame.runtimeconfig.json
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5 WORKS\HeroGame\bin\Debug\net7.0-windows\HeroGame.dll
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5 WORKS\HeroGame\bin\Debug\net7.0-windows\HeroGame.pdb
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5 WORKS\HeroGame\obj\Debug\net7.0-windows\HeroGame.csproj.AssemblyReference.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5 WORKS\HeroGame\obj\Debug\net7.0-windows\HeroGameForm.HeroGame.resources
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5 WORKS\HeroGame\obj\Debug\net7.0-windows\HeroGame.csproj.GenerateResource.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5 WORKS\HeroGame\obj\Debug\net7.0-windows\HeroGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5 WORKS\HeroGame\obj\Debug\net7.0-windows\HeroGame.AssemblyInfoInputs.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5 WORKS\HeroGame\obj\Debug\net7.0-windows\HeroGame.AssemblyInfo.cs
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5 WORKS\HeroGame\obj\Debug\net7.0-windows\HeroGame.csproj.CoreCompileInputs.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5 WORKS\HeroGame\obj\Debug\net7.0-windows\HeroGame.dll
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5 WORKS\HeroGame\obj\Debug\net7.0-windows\refint\HeroGame.dll
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5 WORKS\HeroGame\obj\Debug\net7.0-windows\HeroGame.pdb
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5 WORKS\HeroGame\obj\Debug\net7.0-windows\HeroGame.genruntimeconfig.cache
+D:\Visual Studio\files\POE\SEMESTER 2\Part 1\QUESTION 5 WORKS\HeroGame\obj\Debug\net7.0-windows\ref\HeroGame.dll
+D:\Documents\pdf\GADE\Part 1 working\Part 1 working\HERO_GAME\HeroGame\bin\Debug\net7.0-windows\HeroGame.exe
+D:\Documents\pdf\GADE\Part 1 working\Part 1 working\HERO_GAME\HeroGame\bin\Debug\net7.0-windows\HeroGame.deps.json
+D:\Documents\pdf\GADE\Part 1 working\Part 1 working\HERO_GAME\HeroGame\bin\Debug\net7.0-windows\HeroGame.runtimeconfig.json
+D:\Documents\pdf\GADE\Part 1 working\Part 1 working\HERO_GAME\HeroGame\bin\Debug\net7.0-windows\HeroGame.dll
+D:\Documents\pdf\GADE\Part 1 working\Part 1 working\HERO_GAME\HeroGame\bin\Debug\net7.0-windows\HeroGame.pdb
+D:\Documents\pdf\GADE\Part 1 working\Part 1 working\HERO_GAME\HeroGame\obj\Debug\net7.0-windows\HeroGame.csproj.AssemblyReference.cache
+D:\Documents\pdf\GADE\Part 1 working\Part 1 working\HERO_GAME\HeroGame\obj\Debug\net7.0-windows\HeroGameForm.HeroGame.resources
+D:\Documents\pdf\GADE\Part 1 working\Part 1 working\HERO_GAME\HeroGame\obj\Debug\net7.0-windows\HeroGame.csproj.GenerateResource.cache
+D:\Documents\pdf\GADE\Part 1 working\Part 1 working\HERO_GAME\HeroGame\obj\Debug\net7.0-windows\HeroGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\pdf\GADE\Part 1 working\Part 1 working\HERO_GAME\HeroGame\obj\Debug\net7.0-windows\HeroGame.AssemblyInfoInputs.cache
+D:\Documents\pdf\GADE\Part 1 working\Part 1 working\HERO_GAME\HeroGame\obj\Debug\net7.0-windows\HeroGame.AssemblyInfo.cs
+D:\Documents\pdf\GADE\Part 1 working\Part 1 working\HERO_GAME\HeroGame\obj\Debug\net7.0-windows\HeroGame.csproj.CoreCompileInputs.cache
+D:\Documents\pdf\GADE\Part 1 working\Part 1 working\HERO_GAME\HeroGame\obj\Debug\net7.0-windows\HeroGame.dll
+D:\Documents\pdf\GADE\Part 1 working\Part 1 working\HERO_GAME\HeroGame\obj\Debug\net7.0-windows\refint\HeroGame.dll
+D:\Documents\pdf\GADE\Part 1 working\Part 1 working\HERO_GAME\HeroGame\obj\Debug\net7.0-windows\HeroGame.pdb
+D:\Documents\pdf\GADE\Part 1 working\Part 1 working\HERO_GAME\HeroGame\obj\Debug\net7.0-windows\HeroGame.genruntimeconfig.cache
+D:\Documents\pdf\GADE\Part 1 working\Part 1 working\HERO_GAME\HeroGame\obj\Debug\net7.0-windows\ref\HeroGame.dll
